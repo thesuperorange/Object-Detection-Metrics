@@ -1,0 +1,216 @@
+METHOD=faster-rcnn, CHANNEL=2, TH=0.5
+/home/superorange5/MI3/AP/faster-rcnn_Pathway1_1_AP_ch2
+/home/superorange5/MI3/AP/faster-rcnn_Pathway1_1_AP_ch2
+AP: 46.02% (person)
+mAP: 46.02%
+METHOD=faster-rcnn, CHANNEL=2, TH=0
+None
+mAP: 46.02%
+mAP: 45.85%
+mAP: 45.15%
+mAP: 43.80%
+mAP: 40.85%
+mAP: 36.56%
+mAP: 31.84%
+mAP: 27.88%
+mAP: 24.79%
+mAP: 22.31%
+Total mAP: 36.50%
+METHOD=faster-rcnn, CHANNEL=4, TH=0.5
+/home/superorange5/MI3/AP/faster-rcnn_Pathway1_1_AP_ch4
+/home/superorange5/MI3/AP/faster-rcnn_Pathway1_1_AP_ch4
+AP: 79.44% (person)
+mAP: 79.44%
+METHOD=faster-rcnn, CHANNEL=4, TH=0
+None
+mAP: 79.44%
+mAP: 75.77%
+mAP: 71.32%
+mAP: 64.00%
+mAP: 54.77%
+mAP: 46.58%
+mAP: 40.10%
+mAP: 35.09%
+mAP: 31.19%
+mAP: 28.07%
+Total mAP: 52.63%
+METHOD=faster-rcnn, CHANNEL=6, TH=0.5
+/home/superorange5/MI3/AP/faster-rcnn_Pathway1_1_AP_ch6
+/home/superorange5/MI3/AP/faster-rcnn_Pathway1_1_AP_ch6
+AP: 65.35% (person)
+mAP: 65.35%
+METHOD=faster-rcnn, CHANNEL=6, TH=0
+None
+mAP: 65.35%
+mAP: 57.08%
+mAP: 47.42%
+mAP: 39.19%
+mAP: 32.90%
+mAP: 28.09%
+mAP: 24.32%
+mAP: 21.34%
+mAP: 18.97%
+mAP: 17.07%
+Total mAP: 35.17%
+METHOD=mask-rcnn, CHANNEL=2, TH=0.5
+/home/superorange5/MI3/AP/mask-rcnn_Pathway1_1_AP_ch2
+/home/superorange5/MI3/AP/mask-rcnn_Pathway1_1_AP_ch2
+AP: 56.15% (person)
+mAP: 56.15%
+METHOD=mask-rcnn, CHANNEL=2, TH=0
+None
+mAP: 56.15%
+mAP: 56.15%
+mAP: 56.15%
+mAP: 56.15%
+mAP: 56.15%
+mAP: 56.15%
+mAP: 56.15%
+mAP: 56.15%
+mAP: 56.15%
+mAP: 56.15%
+Total mAP: 56.15%
+METHOD=mask-rcnn, CHANNEL=4, TH=0.5
+/home/superorange5/MI3/AP/mask-rcnn_Pathway1_1_AP_ch4
+/home/superorange5/MI3/AP/mask-rcnn_Pathway1_1_AP_ch4
+AP: 100.00% (person)
+mAP: 100.00%
+METHOD=mask-rcnn, CHANNEL=4, TH=0
+None
+mAP: 100.00%
+mAP: 100.00%
+mAP: 100.00%
+mAP: 100.00%
+mAP: 100.00%
+mAP: 100.00%
+mAP: 100.00%
+mAP: 100.00%
+mAP: 100.00%
+mAP: 100.00%
+Total mAP: 100.00%
+METHOD=mask-rcnn, CHANNEL=6, TH=0.5
+/home/superorange5/MI3/AP/mask-rcnn_Pathway1_1_AP_ch6
+/home/superorange5/MI3/AP/mask-rcnn_Pathway1_1_AP_ch6
+AP: 99.09% (person)
+mAP: 99.09%
+METHOD=mask-rcnn, CHANNEL=6, TH=0
+None
+mAP: 99.09%
+mAP: 99.09%
+mAP: 99.09%
+mAP: 99.09%
+mAP: 99.09%
+mAP: 99.09%
+mAP: 99.09%
+mAP: 99.09%
+mAP: 99.09%
+mAP: 99.09%
+Total mAP: 99.09%
+METHOD=yolo, CHANNEL=2, TH=0.5
+/home/superorange5/MI3/AP/yolo_Pathway1_1_AP_ch2
+/home/superorange5/MI3/AP/yolo_Pathway1_1_AP_ch2
+AP: 52.23% (person)
+mAP: 52.23%
+METHOD=yolo, CHANNEL=2, TH=0
+None
+mAP: 52.23%
+mAP: 52.23%
+mAP: 52.23%
+mAP: 52.23%
+mAP: 52.23%
+mAP: 52.05%
+mAP: 51.04%
+mAP: 48.39%
+mAP: 44.24%
+mAP: 39.86%
+Total mAP: 49.68%
+METHOD=yolo, CHANNEL=4, TH=0.5
+/home/superorange5/MI3/AP/yolo_Pathway1_1_AP_ch4
+/home/superorange5/MI3/AP/yolo_Pathway1_1_AP_ch4
+AP: 83.30% (person)
+mAP: 83.30%
+METHOD=yolo, CHANNEL=4, TH=0
+None
+mAP: 83.30%
+mAP: 83.30%
+mAP: 83.30%
+mAP: 83.30%
+mAP: 83.30%
+mAP: 82.96%
+mAP: 81.96%
+mAP: 78.92%
+mAP: 72.46%
+mAP: 65.28%
+Total mAP: 79.81%
+METHOD=yolo, CHANNEL=6, TH=0.5
+/home/superorange5/MI3/AP/yolo_Pathway1_1_AP_ch6
+/home/superorange5/MI3/AP/yolo_Pathway1_1_AP_ch6
+AP: 77.98% (person)
+mAP: 77.98%
+METHOD=yolo, CHANNEL=6, TH=0
+None
+mAP: 77.98%
+mAP: 77.98%
+mAP: 77.87%
+mAP: 77.82%
+mAP: 77.55%
+mAP: 77.07%
+mAP: 75.69%
+mAP: 71.93%
+mAP: 65.48%
+mAP: 58.97%
+Total mAP: 73.83%
+METHOD=SSD, CHANNEL=2, TH=0.5
+/home/superorange5/MI3/AP/SSD_Pathway1_1_AP_ch2
+/home/superorange5/MI3/AP/SSD_Pathway1_1_AP_ch2
+AP: 38.55% (person)
+mAP: 38.55%
+METHOD=SSD, CHANNEL=2, TH=0
+None
+mAP: 38.55%
+mAP: 38.55%
+mAP: 38.55%
+mAP: 38.47%
+mAP: 38.22%
+mAP: 37.75%
+mAP: 36.63%
+mAP: 34.65%
+mAP: 31.15%
+mAP: 28.03%
+Total mAP: 36.05%
+METHOD=SSD, CHANNEL=4, TH=0.5
+/home/superorange5/MI3/AP/SSD_Pathway1_1_AP_ch4
+/home/superorange5/MI3/AP/SSD_Pathway1_1_AP_ch4
+AP: 58.51% (person)
+mAP: 58.51%
+METHOD=SSD, CHANNEL=4, TH=0
+None
+mAP: 58.51%
+mAP: 58.51%
+mAP: 58.38%
+mAP: 58.23%
+mAP: 57.99%
+mAP: 57.66%
+mAP: 56.83%
+mAP: 53.52%
+mAP: 48.22%
+mAP: 43.42%
+Total mAP: 55.13%
+METHOD=SSD, CHANNEL=6, TH=0.5
+/home/superorange5/MI3/AP/SSD_Pathway1_1_AP_ch6
+/home/superorange5/MI3/AP/SSD_Pathway1_1_AP_ch6
+AP: 56.37% (person)
+mAP: 56.37%
+METHOD=SSD, CHANNEL=6, TH=0
+None
+mAP: 56.37%
+mAP: 56.37%
+mAP: 56.37%
+mAP: 56.29%
+mAP: 56.06%
+mAP: 55.63%
+mAP: 54.46%
+mAP: 51.36%
+mAP: 46.39%
+mAP: 41.77%
+Total mAP: 53.11%
